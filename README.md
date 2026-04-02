@@ -33,11 +33,11 @@ Using AI as a force multiplier — not a shortcut.
 
 ## How I Work
 
-- Understand first. Build second.
-- No clarity, no build.
-- Simplify complexity into clear parts
-- Build scalable, practical solutions
-- Clarity drives every decision
+- Understand first. Build second.  
+- No clarity, no build.  
+- Simplify complexity into clear parts  
+- Build scalable, practical solutions  
+- Clarity drives every decision  
 
 ---
 
@@ -77,15 +77,15 @@ Using AI as a force multiplier — not a shortcut.
 
 ## What I Actually Do
 
-- Simplify complex systems into scalable solutions
-- Design clear, structured platforms for real business needs
-- Solve business problems, not just technical ones
+- Simplify complex systems into scalable solutions  
+- Design clear, structured platforms for real business needs  
+- Solve business problems, not just technical ones  
 - Build practical, AI-driven systems
 
 ---
 
 ## 📫 Connect
 
-- 🌐 Portfolio: [vonpasion.com](https://vonpasion.com)
-- 💼 LinkedIn: [von-pasion](https://www.linkedin.com/in/von-pasion/)
-- ✉️ Email: [voncarlo.pasion@gmail.com](mailto:voncarlo.pasion@gmail.com)
+🌐 Portfolio: [vonpasion.com](https://vonpasion.com)
+💼 LinkedIn: [von-pasion](https://www.linkedin.com/in/von-pasion/)
+✉️ Email: [voncarlo.pasion@gmail.com](mailto:voncarlo.pasion@gmail.com)
